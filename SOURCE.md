@@ -62,4 +62,4 @@ LINK 1
 LINK 2
 
 `Wikipedia`
-`http://en.wikipedia.org/wiki/Riyadh`
+`http://www.lonelyplanet.com/saudi-arabia/riyadh`
